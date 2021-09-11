@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cpu-ram
 - 👀 I’m interested in Data Analytics and Software Development
-- 🌱 I’m currently learning Algorithms and Data Structures
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning SQL and Oracle Server
+- 💞️ I’m looking to collaborate on any software development projects
 - 📫 How to reach me ...
 
 <!---
