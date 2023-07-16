@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cpu-ram
-- 👀 I’m interested in Data Analytics and Software Development
-- 🌱 I’m currently learning SQL and Oracle Server
+- 👀 I’m interested in Front-End / Full-Stack Software Development
+- 🌱 I’m currently learning PostgreSQL and Oracle Server
 - 💞️ I’m looking to collaborate on any software development projects
 - 📫 How to reach me ...
 
