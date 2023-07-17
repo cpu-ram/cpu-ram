@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cpu-ram
 - 👀 I’m interested in Front-End / Full-Stack Software Development
-- 🌱 I’m currently learning PostgreSQL and Oracle Server
+- 🌱 I’m currently learning Mongo PostgreSQL and Oracle Server
 - 💞️ I’m looking to collaborate on any software development projects
 - 📫 How to reach me ...
 
